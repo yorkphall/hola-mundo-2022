@@ -1,3 +1,35 @@
 1.2GitIntro
 
 github now has 'main' not 'master' as the default branch name.
+
+
+
+
+Pulling from Github
+
+As we added the README.md in our repo, we need to first pull that file to our local repository to check that we haven't got a 'conflict'.
+
+git pull origin master
+
+git status
+
+git add .
+
+git commit -m "README.md" 	<<< I think this line should move to ...
+
+Once we have done this, you should see the README file on your computer.
+
+ls
+
+Open it up and type some kind of modification/addition.
+
+git add .
+
+				<<< ... here.
+
+Now you can push your changes:
+
+git push origin master
+
+Refresh your GitHub webpage, and the files should be there.
+
