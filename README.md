@@ -12,3 +12,9 @@ made this edit prior to add, commit, and push to github
 
 made this edit prior to attempted add then push to github (failed)
 
+## EW Fork
+
+Fork project, edit readme, make pull request.
+
+Need to try:
+• Adding my own commits to PH's request on my server before allowing.
