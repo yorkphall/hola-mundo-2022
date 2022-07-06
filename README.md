@@ -7,3 +7,5 @@ Summer 2022
 Changed default branch from main to master
 
 created this readme in master
+
+made this edit prior to add, commit, and push to github
