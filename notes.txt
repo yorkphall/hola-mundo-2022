@@ -1,6 +1,6 @@
 1.2GitIntro
 
-github now has 'main' not 'master' as the default branch name.
+My github had 'main' not 'master' as the default branch name.
 
 
 
